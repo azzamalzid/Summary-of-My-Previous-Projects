@@ -15,14 +15,14 @@
 
 <p dir="rtl" align="right">
   <strong>🤖 الذكاء الاصطناعي والتعلم الآلي:</strong><br/>
-  <img src="https://img.shields.io/badge/وكلاء_الذكاء_الاصطناعي-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDh6bS0xLTExSDExdjZoMnoiLz48L3N2Zz4=">
-  <img src="https://img.shields.io/badge/بنية_RAG-4A90E2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/نماذج_LLM_(Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDh6bS0xLTExSDExdjZoMnoiLz48L3N2Zz4=">
+  <img src="https://img.shields.io/badge/RAG_Architecture-4A90E2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM_Models_(Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/معالجة_اللغة_الطبيعية-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-007ACC?style=for-the-badge">
 </p>
 <p dir="rtl" align="right">
   <strong>⚙️ تطوير الواجهات الخلفية:</strong><br/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/واجهات_RESTful-00A98F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RESTful_APIs-00A98F?style=for-the-badge">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 <p dir="rtl" align="right">
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/قواعد_بيانات_متجهة_(Chroma)-4E85C7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vector_Databases_(Chroma)-4E85C7?style=for-the-badge">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </p>
 <p dir="rtl" align="right">
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/استخلاص_البيانات-6c757d?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data_Scraping-6c757d?style=for-the-badge">
   <img src="https://img.shields.io/badge/WebRTC-D22128?style=for-the-badge">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
@@ -89,9 +89,9 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/LLMs (Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
-      <img src="https://img.shields.io/badge/بنية_الوكلاء-000000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Agent_Architecture-000000?style=for-the-badge">
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-      <img src="https://img.shields.io/badge/هندسة_الأوامر-4A90E2?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Prompt_Engineering-4A90E2?style=for-the-badge">
     </p>
 
 ### 🔬 وكيل كتابة الأبحاث العلمية
@@ -101,9 +101,9 @@
     <p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/LLMs (Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
-      <img src="https://img.shields.io/badge/تكامل_APIs-02A7E1?style=for-the-badge">
-      <img src="https://img.shields.io/badge/معالجة_PDF-D22128?style=for-the-badge">
-      <img src="https://img.shields.io/badge/أتمتة-6c757d?style=for-the-badge">
+      <img src="https://img.shields.io/badge/API_Integration-02A7E1?style=for-the-badge">
+      <img src="https://img.shields.io/badge/PDF_Processing-D22128?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Automation-6c757d?style=for-the-badge">
     </p>
 
 ### 🎓 المرشد الأكاديمي الذكي
@@ -114,7 +114,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/LLMs (Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
-      <img src="https://img.shields.io/badge/بنية_الوكلاء-000000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Agent_Architecture-000000?style=for-the-badge">
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     </p>
 
@@ -137,9 +137,9 @@
     <p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/LLMs (Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
-      <img src="https://img.shields.io/badge/تصميم_الوكلاء-000000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Agent_Design-000000?style=for-the-badge">
       <img src="https://img.shields.io/badge/Subprocess-6c757d?style=for-the-badge">
-      <img src="https://img.shields.io/badge/تصحيح_ذاتي-4A90E2?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Self-Correction-4A90E2?style=for-the-badge">
     </p>
 
 ### 📄 وكيل إنشاء وتطوير صفحات الويب
@@ -168,8 +168,8 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
       <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge">
-      <img src="https://img.shields.io/badge/بنية_RAG-4A90E2?style=for-the-badge">
-      <img src="https://img.shields.io/badge/قواعد_بيانات_متجهة_(Chroma)-4E85C7?style=for-the-badge">
+      <img src="https://img.shields.io/badge/RAG_Architecture-4A90E2?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Vector_Databases_(Chroma)-4E85C7?style=for-the-badge">
       <img src="https://img.shields.io/badge/LLMs (Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
     </p>
 
@@ -218,7 +218,7 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/Threading-007ACC?style=for-the-badge">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/صيغ_الأرشيف-D22128?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Archive_Formats-D22128?style=for-the-badge">
     </p>
 
 ### 📱 تطبيق الويب التقدمي (PWA) لإدارة الموظفين
@@ -272,7 +272,7 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
       <img src="https://img.shields.io/badge/LLMs (Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
-      <img src="https://img.shields.io/badge/أتمتة-6c757d?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Automation-6c757d?style=for-the-badge">
     </p>
 
 ### 🛒 أداة استخراج معلومات منتجات أمازون
@@ -283,7 +283,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
       <img src="https://img.shields.io/badge/BeautifulSoup-6c757d?style=for-the-badge">
-      <img src="https://img.shields.io/badge/استخلاص_البيانات-00A98F?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Data_Scraping-00A98F?style=for-the-badge">
     </p>
 
 ### 🔊 محول النصوص الطويلة إلى صوت
@@ -294,7 +294,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/gTTS-4285F4?style=for-the-badge">
       <img src="https://img.shields.io/badge/pydub-D22128?style=for-the-badge">
-      <img src="https://img.shields.io/badge/معالجة_الصوت-FF8C00?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Audio_Processing-FF8C00?style=for-the-badge">
     </p>
 
 ### 📄 أداة ترجمة ملفات PDF الصورية
@@ -306,7 +306,7 @@
       <img src="https://img.shields.io/badge/Tesseract_(OCR)-F7941D?style=for-the-badge">
       <img src="https://img.shields.io/badge/LLMs (Gemini)-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
       <img src="https://img.shields.io/badge/ReportLab-CC0000?style=for-the-badge">
-      <img src="https://img.shields.io/badge/معالجة_الصور-00A98F?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Image_Processing-00A98F?style=for-the-badge">
     </p>
 
 ---
@@ -324,7 +324,7 @@
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/أمن_سيبراني-000000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge">
     </p>
 
 ### 🤖 نظام توصيات للمستخدمين
@@ -336,7 +336,7 @@
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/أنظمة_توصية-4A90E2?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Recommendation_Systems-4A90E2?style=for-the-badge">
     </p>
 
 ### 🚁 محاكاة تتبع الأجسام بالدرون
@@ -348,7 +348,7 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/YOLOv5-4F46E5?style=for-the-badge">
-      <img src="https://img.shields.io/badge/رؤية_الحاسوب-00A98F?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Computer_Vision-00A98F?style=for-the-badge">
     </p>
 
 ### 💰 بوت تداول آلي (Scalping)
@@ -358,7 +358,7 @@
     <p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/MetaTrader_5-00A98F?style=for-the-badge">
-      <img src="https://img.shields.io/badge/تداول_آلي-F7931A?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Algorithmic_Trading-F7931A?style=for-the-badge">
     </p>
 
 ---
@@ -375,7 +375,7 @@
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
       <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
-      <img src="https://img.shields.io/badge/خدمة_خلفية-000000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Background_Service-000000?style=for-the-badge">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     </p>
 
@@ -385,9 +385,9 @@
 *   **✨ التقنيات والمهارات:**
     <p>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/هياكل_البيانات-000000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge">
       <img src="https://img.shields.io/badge/OOP-4A90E2?style=for-the-badge">
-      <img src="https://img.shields.io/badge/تطبيق_طرفية-6c757d?style=for-the-badge">
+      <img src="https://img.shields.io/badge/CLI_Application-6c757d?style=for-the-badge">
     </p>
 
 ---
@@ -404,7 +404,7 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/عمليات_CRUD-00A98F?style=for-the-badge">
+      <img src="https://img.shields.io/badge/CRUD_Operations-00A98F?style=for-the-badge">
     </p>
 
 ### 📝 مدونة بسيطة (Blog22)
